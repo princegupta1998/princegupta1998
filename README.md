@@ -1,4 +1,5 @@
-[![MasterHead]([https://binmark.in/wp-content/uploads/2023/04/Image.png](https://media.licdn.com/dms/image/v2/D5616AQFk3XW1CbC-NQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730478776420?e=1738195200&v=beta&t=wW2Tj_zaFFca-ykfsjKthu-tfRh1Y0xeE4GPjV5fPxY))](#)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFk3XW1CbC-NQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730478776420?e=1738195200&v=beta&t=wW2Tj_zaFFca-ykfsjKthu-tfRh1Y0xeE4GPjV5fPxY)](#)
+
 <h1 align="center">Hi 👋, I'm Prince Gupta</h1>
 <h3 align="center">I'm a Creative Front-End Developer with 2.5+ years of experience, specializing in React.js and modern front-end technologies. I build responsive, scalable web applications that prioritize seamless user experiences and accessibility.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
