@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFk3XW1CbC-NQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730478776420?e=1738195200&v=beta&t=wW2Tj_zaFFca-ykfsjKthu-tfRh1Y0xeE4GPjV5fPxY)](#)
 
 <h1 align="center">Hi 👋, I'm Prince Gupta</h1>
-<p align="center">I'm a Creative Front-End Developer** with 2.5+ years of experience, specializing in React.js and modern front-end technologies. I build responsive, scalable web applications that prioritize seamless user experiences and accessibility.</p>
+<p align="center">I'm a Creative Front-End Developer with 2.5+ years of experience, specializing in React.js and modern front-end technologies. I build responsive, scalable web applications that prioritize seamless user experiences and accessibility.</p>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princegupta1998&label=Profile%20views&color=0e75b6&style=flat" alt="princegupta1998" /> </p>
 
